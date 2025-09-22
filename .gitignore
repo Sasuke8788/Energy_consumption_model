@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+backend/database/
+
+# Saved models (binary files, large)
+*.h5
+*.pkl
+backend/saved_models/
+
+# Environment
+.env
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+
